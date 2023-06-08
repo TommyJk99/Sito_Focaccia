@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin:0;
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+    align-content: center; 
+
+}
+
+.container{
+    margin:0 30%;
+}
+
+h1{
+    font-size: 1.6rem;
+}
+
+header p{
+    background-color: rgb(255, 255, 209);
+    border-top: 1px solid rgb(249, 180, 52);
+    color:rgb(54, 114, 114);
+    padding: 0.5rem 0;
+    font-size: 0.8rem;
+}
+
+.center{
+    text-align: center;
+}
+
+article p{
+    font-weight: bold;
+}
+
+#pizza-img{
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0.2rem 0.2rem 0.4rem grey;
+    margin-top: 0.5rem;
+}
+
+#logo-img{
+    width: 9rem;
+    margin-bottom: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-bottom{
+    font-size: 0.9rem;
+    color: grey;
+    text-align: center;
+}
+
+#no-bold{
+    font-weight: 50;
+}
+
+.arancio-bordo{
+    border-left: 2px solid orange;
+    margin-top: 1rem;
+}
+.arancio-bordo p{
+    margin-left: 1rem;
+}
+
+div p{
+    margin: 2px 0;
+}
+
+.linea-separa{
+    width: 100%;
+    height: 1px;
+    background-color: blue;
+}
+
+.h2-ing{
+    margin-top:3rem;
+}
+
+.left{
+    text-align: left;
+}
+li{
+    margin: 1rem 0;
+}
+
+footer{
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
